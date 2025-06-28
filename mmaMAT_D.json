@@ -1,0 +1,172 @@
+[
+    {
+        "resname": "ASP",
+        "position": 156,
+        "chain": "B"
+    },
+    {
+        "resname": "ASP",
+        "position": 276,
+        "chain": "A"
+    },
+    {
+        "resname": "ASP",
+        "position": 32,
+        "chain": "A"
+    },
+    {
+        "resname": "SER",
+        "position": 271,
+        "chain": "A"
+    },
+    {
+        "resname": "HIS",
+        "position": 30,
+        "chain": "A"
+    },
+    {
+        "resname": "HIS",
+        "position": 309,
+        "chain": "B"
+    },
+    {
+        "resname": "HIS",
+        "position": 30,
+        "chain": "A"
+    },
+    {
+        "resname": "PHE",
+        "position": 264,
+        "chain": "A"
+    },
+    {
+        "resname": "HIS",
+        "position": 30,
+        "chain": "A"
+    },
+    {
+        "resname": "HIS",
+        "position": 309,
+        "chain": "B"
+    },
+    {
+        "resname": "PHE",
+        "position": 264,
+        "chain": "A"
+    },
+    {
+        "resname": "ASP",
+        "position": 276,
+        "chain": "A"
+    },
+    {
+        "resname": "ASP",
+        "position": 156,
+        "chain": "B"
+    },
+    {
+        "resname": "ASP",
+        "position": 32,
+        "chain": "A"
+    },
+    {
+        "resname": "GLU",
+        "position": 299,
+        "chain": "B"
+    },
+    {
+        "resname": "GLU",
+        "position": 24,
+        "chain": "A"
+    },
+    {
+        "resname": "ASP",
+        "position": 194,
+        "chain": "A"
+    },
+    {
+        "resname": "ASP",
+        "position": 256,
+        "chain": "A"
+    },
+    {
+        "resname": "ASN",
+        "position": 155,
+        "chain": "B"
+    },
+    {
+        "resname": "ASN",
+        "position": 253,
+        "chain": "A"
+    },
+    {
+        "resname": "PHE",
+        "position": 264,
+        "chain": "A"
+    },
+    {
+        "resname": "ILE",
+        "position": 343,
+        "chain": "B"
+    },
+    {
+        "resname": "HIS",
+        "position": 30,
+        "chain": "A"
+    },
+    {
+        "resname": "LYS",
+        "position": 196,
+        "chain": "A"
+    },
+    {
+        "resname": "HIS",
+        "position": 309,
+        "chain": "B"
+    },
+    {
+        "resname": "LYS",
+        "position": 26,
+        "chain": "A"
+    },
+    {
+        "resname": "LYS",
+        "position": 304,
+        "chain": "B"
+    },
+    {
+        "resname": "HIS",
+        "position": 309,
+        "chain": "B"
+    },
+    {
+        "resname": "ILE",
+        "position": 343,
+        "chain": "B"
+    },
+    {
+        "resname": "ALA",
+        "position": 255,
+        "chain": "A"
+    },
+    {
+        "resname": "HIS",
+        "position": 30,
+        "chain": "A"
+    },
+    {
+        "resname": "LYS",
+        "position": 196,
+        "chain": "A"
+    },
+    {
+        "resname": "HIS",
+        "position": 309,
+        "chain": "B"
+    },
+    {
+        "resname": "LYS",
+        "position": 26,
+        "chain": "A"
+    }
+]

@@ -1,0 +1,157 @@
+[
+    {
+        "resname": "GLN",
+        "position": 93,
+        "chain": "A"
+    },
+    {
+        "resname": "GLU",
+        "position": 57,
+        "chain": "A"
+    },
+    {
+        "resname": "ASP",
+        "position": 231,
+        "chain": "B"
+    },
+    {
+        "resname": "SER",
+        "position": 220,
+        "chain": "B"
+    },
+    {
+        "resname": "ARG",
+        "position": 222,
+        "chain": "B"
+    },
+    {
+        "resname": "ASP",
+        "position": 158,
+        "chain": "B"
+    },
+    {
+        "resname": "HIS",
+        "position": 16,
+        "chain": "B"
+    },
+    {
+        "resname": "HIS",
+        "position": 16,
+        "chain": "B"
+    },
+    {
+        "resname": "PHE",
+        "position": 223,
+        "chain": "B"
+    },
+    {
+        "resname": "HIS",
+        "position": 16,
+        "chain": "B"
+    },
+    {
+        "resname": "PHE",
+        "position": 223,
+        "chain": "B"
+    },
+    {
+        "resname": "ASP",
+        "position": 231,
+        "chain": "B"
+    },
+    {
+        "resname": "ASP",
+        "position": 113,
+        "chain": "A"
+    },
+    {
+        "resname": "GLU",
+        "position": 57,
+        "chain": "A"
+    },
+    {
+        "resname": "ASP",
+        "position": 158,
+        "chain": "B"
+    },
+    {
+        "resname": "ASP",
+        "position": 96,
+        "chain": "A"
+    },
+    {
+        "resname": "GLN",
+        "position": 93,
+        "chain": "A"
+    },
+    {
+        "resname": "ILE",
+        "position": 97,
+        "chain": "A"
+    },
+    {
+        "resname": "PHE",
+        "position": 223,
+        "chain": "B"
+    },
+    {
+        "resname": "ILE",
+        "position": 295,
+        "chain": "A"
+    },
+    {
+        "resname": "LYS",
+        "position": 262,
+        "chain": "A"
+    },
+    {
+        "resname": "HIS",
+        "position": 16,
+        "chain": "B"
+    },
+    {
+        "resname": "LYS",
+        "position": 160,
+        "chain": "B"
+    },
+    {
+        "resname": "ARG",
+        "position": 222,
+        "chain": "B"
+    },
+    {
+        "resname": "ILE",
+        "position": 97,
+        "chain": "A"
+    },
+    {
+        "resname": "ALA",
+        "position": 42,
+        "chain": "A"
+    },
+    {
+        "resname": "PRO",
+        "position": 17,
+        "chain": "B"
+    },
+    {
+        "resname": "ILE",
+        "position": 295,
+        "chain": "A"
+    },
+    {
+        "resname": "LYS",
+        "position": 262,
+        "chain": "A"
+    },
+    {
+        "resname": "HIS",
+        "position": 16,
+        "chain": "B"
+    },
+    {
+        "resname": "LYS",
+        "position": 160,
+        "chain": "B"
+    }
+]
