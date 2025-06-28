@@ -1,5 +1,5 @@
 # MATprojekt
-# MATb: Decoding Stereoselectivity in Methionine Adenosyl Transferases  
+# Decoding Stereoselectivity in Methionine Adenosyl Transferases  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/downloads/)  
 [![Platform](https://img.shields.io/badge/Platform-Mac%20%7C%20Linux%20%7C%20Windows-lightgrey)]()  
@@ -29,8 +29,8 @@ cd MATprojekt
 
 # 3. Install the dependencies
 pip install -r requirements.txt
----
 
+``` 
 ## Usage
 
 To run the main analysis (e.g. structure alignment or visualizations), use:
